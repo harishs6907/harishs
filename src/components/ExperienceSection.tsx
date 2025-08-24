@@ -30,14 +30,14 @@ const ExperienceSection = () => {
       responsibilities: [
         'Managed legal and vesting processes for property transactions',
         'Conducted comprehensive property searches using advanced databases',
-        'Executed AVR (Automated Valuation Reports) processes',
+        'Executed AVR processes',
         'Utilized online tools including Data Trace, Data Tree, and Title Point',
         'Maintained strong proficiency in MS Office suite and PDF editing'
       ],
       achievements: [
         'Processed 500+ property documents with 99.5% accuracy',
         'Reduced document processing time by 40%',
-        'Trained 5+ junior analysts on data management tools',
+        'Trained 5+ junior analysts on data tools',
         'Implemented quality control processes that improved team efficiency'
       ]
     }
