@@ -3,7 +3,7 @@ import { Building2, Calendar, MapPin, CheckCircle } from 'lucide-react';
 const ExperienceSection = () => {
   const experiences = [
     {
-      title: 'Dexter Head',
+      title: 'Dexter Head Assistnace',
       company: 'Ekart Logistics',
       location: 'Bengaluru, India',
       period: 'Jul 2023 – Jul 2025',
