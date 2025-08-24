@@ -54,7 +54,7 @@ const ExperienceSection = () => {
             Work <span className="text-gradient">Experience</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Over 3+ years of experience in data analysis, logistics management, and process optimization 
+            Over 5+ years of experience in data analysis, logistics management, and process optimization 
             across different industries.
           </p>
         </div>
