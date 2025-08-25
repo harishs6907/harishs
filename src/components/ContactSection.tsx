@@ -49,7 +49,7 @@ const ContactSection = () => {
     {
       icon: Phone,
       label: 'Phone',
-      value: '+91 98765 43210',
+      value: '+91 6361303481',
       href: 'tel:+919876543210'
     },
     {
