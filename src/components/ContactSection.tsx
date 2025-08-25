@@ -43,8 +43,8 @@ const ContactSection = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'harish.analyst@email.com',
-      href: 'mailto:harish.analyst@email.com'
+      value: 'harish.s6907@gmailcom',
+      href: 'mailto:harish.s6907@gmailcom'
     },
     {
       icon: Phone,
@@ -76,7 +76,7 @@ const ContactSection = () => {
     {
       icon: Mail,
       label: 'Email',
-      href: 'mailto:harish.analyst@email.com',
+      href: 'mailto:harish.s6907@gmailcom',
       color: 'text-primary hover:text-primary/80'
     }
   ];
