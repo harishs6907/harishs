@@ -1,6 +1,6 @@
 import { ArrowRight, Download, Github, Linkedin, Mail } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import harishProfile from '@/assets/harish-new-profile.jpg';
+import harishProfile from '@/assets/harish-profile-updated.jpg';
 
 const HeroSection = () => {
   const scrollToWork = () => {
